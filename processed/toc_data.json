@@ -1,0 +1,2420 @@
+{
+    "Handbook of Data Visualization.pdf": [],
+    "Information Storage And Retrieval Systems-Theory And Impl 2e_Kowalski GJ (2002).pdf": [
+        {
+            "depth": 0,
+            "title": "0792379241",
+            "page": 1
+        },
+        {
+            "depth": 0,
+            "title": "CONTENTS",
+            "page": 8
+        },
+        {
+            "depth": 1,
+            "title": "PREFACE",
+            "page": 12
+        },
+        {
+            "depth": 0,
+            "title": "1 Introduction to Information Retrieval Systems",
+            "page": 16
+        },
+        {
+            "depth": 1,
+            "title": "1.1 Definition of Information Retrieval System",
+            "page": 17
+        },
+        {
+            "depth": 1,
+            "title": "1.2 Objectives of Information Retrieval Systems",
+            "page": 19
+        },
+        {
+            "depth": 1,
+            "title": "1.3 Functional Overview",
+            "page": 25
+        },
+        {
+            "depth": 2,
+            "title": "1.3.1 Item Normalization",
+            "page": 25
+        },
+        {
+            "depth": 2,
+            "title": "1.3.2 Selective Dissemination of Information",
+            "page": 31
+        },
+        {
+            "depth": 2,
+            "title": "1.3.3 Document Database Search",
+            "page": 33
+        },
+        {
+            "depth": 2,
+            "title": "1.3.4 Index Database Search",
+            "page": 33
+        },
+        {
+            "depth": 2,
+            "title": "1.3.5 Multimedia Database Search",
+            "page": 35
+        },
+        {
+            "depth": 1,
+            "title": "1.4 Relationship to Database Management Systems",
+            "page": 35
+        },
+        {
+            "depth": 1,
+            "title": "1.5 Digital Libraries and Data Warehouses",
+            "page": 36
+        },
+        {
+            "depth": 1,
+            "title": "1.6 Summary",
+            "page": 39
+        },
+        {
+            "depth": 0,
+            "title": "2 Information Retrieval System Capabilities",
+            "page": 42
+        },
+        {
+            "depth": 1,
+            "title": "2.1 Search Capabilities",
+            "page": 43
+        },
+        {
+            "depth": 2,
+            "title": "2.1.1 Boolean Logic",
+            "page": 44
+        },
+        {
+            "depth": 2,
+            "title": "2.1.2 Proximity",
+            "page": 45
+        },
+        {
+            "depth": 2,
+            "title": "2.1.3 Contiguous Word Phrases",
+            "page": 46
+        },
+        {
+            "depth": 2,
+            "title": "2.1.4 Fuzzy Searches",
+            "page": 47
+        },
+        {
+            "depth": 2,
+            "title": "2.1.5 Term Masking",
+            "page": 47
+        },
+        {
+            "depth": 2,
+            "title": "2.1.6 Numeric and Date Ranges",
+            "page": 48
+        },
+        {
+            "depth": 2,
+            "title": "2.1.7 Concept/Thesaurus Expansion",
+            "page": 49
+        },
+        {
+            "depth": 2,
+            "title": "2.1.8 Natural Language Queries",
+            "page": 51
+        },
+        {
+            "depth": 2,
+            "title": "2.1.9 Multimedia Queries",
+            "page": 52
+        },
+        {
+            "depth": 1,
+            "title": "2.2 Browse Capabilities",
+            "page": 53
+        },
+        {
+            "depth": 2,
+            "title": "2.2.1 Ranking",
+            "page": 53
+        },
+        {
+            "depth": 2,
+            "title": "2.2.2 Zoning",
+            "page": 55
+        },
+        {
+            "depth": 2,
+            "title": "2.2.3 Highlighting",
+            "page": 55
+        },
+        {
+            "depth": 1,
+            "title": "2.3 Miscellaneous Capabilities",
+            "page": 56
+        },
+        {
+            "depth": 2,
+            "title": "2.3.1 Vocabulary Browse",
+            "page": 56
+        },
+        {
+            "depth": 2,
+            "title": "2.3.2 Iterative Search and Search History Log",
+            "page": 57
+        },
+        {
+            "depth": 2,
+            "title": "2.3.3 Canned Query",
+            "page": 58
+        },
+        {
+            "depth": 2,
+            "title": "2.3.4 Multimedia",
+            "page": 58
+        },
+        {
+            "depth": 1,
+            "title": "2.4 Z39.50 and WAIS Standards",
+            "page": 59
+        },
+        {
+            "depth": 1,
+            "title": "2.5 Summary",
+            "page": 62
+        },
+        {
+            "depth": 0,
+            "title": "3 Cataloging and Indexing",
+            "page": 66
+        },
+        {
+            "depth": 1,
+            "title": "3.1 History and Objectives of Indexing",
+            "page": 67
+        },
+        {
+            "depth": 2,
+            "title": "3.1.1 History",
+            "page": 67
+        },
+        {
+            "depth": 2,
+            "title": "3.1.2 Objectives",
+            "page": 69
+        },
+        {
+            "depth": 1,
+            "title": "3.2 Indexing Process",
+            "page": 71
+        },
+        {
+            "depth": 2,
+            "title": "3.2.1 Scope of Indexing",
+            "page": 72
+        },
+        {
+            "depth": 2,
+            "title": "3.2.2 Precoordination and Linkages",
+            "page": 73
+        },
+        {
+            "depth": 1,
+            "title": "3.3 AUTOMATIC INDEXING",
+            "page": 73
+        },
+        {
+            "depth": 2,
+            "title": "3.3.1 Indexing by Term",
+            "page": 76
+        },
+        {
+            "depth": 2,
+            "title": "3.3.2 Indexing by Concept",
+            "page": 78
+        },
+        {
+            "depth": 2,
+            "title": "3.3.3 Multimedia Indexing",
+            "page": 79
+        },
+        {
+            "depth": 1,
+            "title": "3.4 Information Extraction",
+            "page": 80
+        },
+        {
+            "depth": 1,
+            "title": "3.5 Summary",
+            "page": 83
+        },
+        {
+            "depth": 0,
+            "title": "4 Data Structure",
+            "page": 86
+        },
+        {
+            "depth": 1,
+            "title": "4.1 Introduction to Data Structures",
+            "page": 87
+        },
+        {
+            "depth": 1,
+            "title": "4.2 Stemming Algorithms",
+            "page": 88
+        },
+        {
+            "depth": 2,
+            "title": "4.2.1 Introduction to the Stemming Process",
+            "page": 89
+        },
+        {
+            "depth": 2,
+            "title": "4.2.2 Porter Stemming Algorithm",
+            "page": 90
+        },
+        {
+            "depth": 2,
+            "title": "4.2.3 Dictionary Look-Up Stemmers",
+            "page": 92
+        },
+        {
+            "depth": 2,
+            "title": "4.2.4 Successor Stemmers",
+            "page": 93
+        },
+        {
+            "depth": 2,
+            "title": "4.2.5 Conclusions",
+            "page": 95
+        },
+        {
+            "depth": 1,
+            "title": "4.3 Inverted File Structure",
+            "page": 97
+        },
+        {
+            "depth": 1,
+            "title": "4.4 N-Gram Data Structures",
+            "page": 100
+        },
+        {
+            "depth": 2,
+            "title": "4.4.1 History",
+            "page": 101
+        },
+        {
+            "depth": 2,
+            "title": "4.4.2 N-Gram Data Structure",
+            "page": 102
+        },
+        {
+            "depth": 1,
+            "title": "4.5 PAT Data Structure",
+            "page": 103
+        },
+        {
+            "depth": 1,
+            "title": "4.6 Signature File Structure",
+            "page": 108
+        },
+        {
+            "depth": 1,
+            "title": "4.7 Hypertext and XML Data Structures",
+            "page": 109
+        },
+        {
+            "depth": 2,
+            "title": "4.7.1 Definition of Hypertext Structure",
+            "page": 110
+        },
+        {
+            "depth": 2,
+            "title": "4.7.2 Hypertext History",
+            "page": 112
+        },
+        {
+            "depth": 2,
+            "title": "4.7.3 XML",
+            "page": 113
+        },
+        {
+            "depth": 1,
+            "title": "4.8 Hidden Markov Models",
+            "page": 114
+        },
+        {
+            "depth": 1,
+            "title": "4.9 Summary",
+            "page": 117
+        },
+        {
+            "depth": 0,
+            "title": "5 Automatic Indexing",
+            "page": 120
+        },
+        {
+            "depth": 1,
+            "title": "5.1 Classes of Automatic Indexing",
+            "page": 120
+        },
+        {
+            "depth": 1,
+            "title": "5.2 Statistical Indexing",
+            "page": 123
+        },
+        {
+            "depth": 2,
+            "title": "5.2.1 Probabilistic Weighting",
+            "page": 123
+        },
+        {
+            "depth": 2,
+            "title": "5.2.2 Vector Weighting",
+            "page": 126
+        },
+        {
+            "depth": 2,
+            "title": "5.2.3 Bayesian Model",
+            "page": 137
+        },
+        {
+            "depth": 1,
+            "title": "5.3 Natural Language",
+            "page": 138
+        },
+        {
+            "depth": 2,
+            "title": "5.3.1 Index Phrase Generation",
+            "page": 140
+        },
+        {
+            "depth": 2,
+            "title": "5.3.2 Natural Language Processing",
+            "page": 143
+        },
+        {
+            "depth": 1,
+            "title": "5.4 Concept Indexing",
+            "page": 145
+        },
+        {
+            "depth": 1,
+            "title": "5.5 Hypertext Linkages",
+            "page": 147
+        },
+        {
+            "depth": 1,
+            "title": "5.6 Summary",
+            "page": 150
+        },
+        {
+            "depth": 0,
+            "title": "6 Document and Term Clustering",
+            "page": 154
+        },
+        {
+            "depth": 1,
+            "title": "6.1 Introduction to Clustering",
+            "page": 155
+        },
+        {
+            "depth": 1,
+            "title": "6.2 Thesaurus Generation",
+            "page": 158
+        },
+        {
+            "depth": 2,
+            "title": "6.2.1 Manual Clustering",
+            "page": 159
+        },
+        {
+            "depth": 2,
+            "title": "6.2.2 Automatic Term Clustering",
+            "page": 160
+        },
+        {
+            "depth": 1,
+            "title": "6.3 Item Clustering",
+            "page": 169
+        },
+        {
+            "depth": 1,
+            "title": "6.4 Hierarchy of Clusters",
+            "page": 171
+        },
+        {
+            "depth": 1,
+            "title": "6.5 Summary",
+            "page": 175
+        },
+        {
+            "depth": 0,
+            "title": "7 User Search Techniques",
+            "page": 180
+        },
+        {
+            "depth": 1,
+            "title": "7.1 Search Statements and Binding",
+            "page": 181
+        },
+        {
+            "depth": 1,
+            "title": "7.2 Similarity Measures and Ranking",
+            "page": 182
+        },
+        {
+            "depth": 2,
+            "title": "7.2.1 Similarity Measures",
+            "page": 183
+        },
+        {
+            "depth": 2,
+            "title": "7.2.2 Hidden Markov Models Techniques",
+            "page": 188
+        },
+        {
+            "depth": 2,
+            "title": "7.2.3 Ranking Algorithms",
+            "page": 189
+        },
+        {
+            "depth": 1,
+            "title": "7.3 Relevance Feedback",
+            "page": 190
+        },
+        {
+            "depth": 1,
+            "title": "7.4 Selective Dissemination of Information Search",
+            "page": 194
+        },
+        {
+            "depth": 1,
+            "title": "7.5 Weighted Searches of Boolean Systems",
+            "page": 201
+        },
+        {
+            "depth": 1,
+            "title": "7.6 Searching the INTERNET and Hypertext",
+            "page": 206
+        },
+        {
+            "depth": 1,
+            "title": "7.7 Summary",
+            "page": 209
+        },
+        {
+            "depth": 0,
+            "title": "8 Information Visualization",
+            "page": 214
+        },
+        {
+            "depth": 1,
+            "title": "8.1 Introduction to Information Visualization",
+            "page": 215
+        },
+        {
+            "depth": 1,
+            "title": "8.2 Cognition and Perception",
+            "page": 218
+        },
+        {
+            "depth": 2,
+            "title": "8.2.1 Background",
+            "page": 218
+        },
+        {
+            "depth": 2,
+            "title": "8.2.2 Aspects of the Visualization Process",
+            "page": 219
+        },
+        {
+            "depth": 1,
+            "title": "8-3 Information Visualization Technologies",
+            "page": 223
+        },
+        {
+            "depth": 1,
+            "title": "8.4 Summary",
+            "page": 233
+        },
+        {
+            "depth": 0,
+            "title": "9 Text Search Algorithms",
+            "page": 236
+        },
+        {
+            "depth": 1,
+            "title": "9.1 Introduction to Text Search Techniques",
+            "page": 236
+        },
+        {
+            "depth": 1,
+            "title": "9.2 Software Text Search Algorithms",
+            "page": 240
+        },
+        {
+            "depth": 1,
+            "title": "9.3 Hardware Text Search Systems",
+            "page": 248
+        },
+        {
+            "depth": 1,
+            "title": "9.4 Summary",
+            "page": 253
+        },
+        {
+            "depth": 0,
+            "title": "10 Multimedia Information Retrieval",
+            "page": 256
+        },
+        {
+            "depth": 1,
+            "title": "10.1 Spoken Language Audio Retrieval",
+            "page": 257
+        },
+        {
+            "depth": 1,
+            "title": "10.2 Non-Speech Audio Retrieval",
+            "page": 259
+        },
+        {
+            "depth": 1,
+            "title": "10.3 Graph Retrieval",
+            "page": 260
+        },
+        {
+            "depth": 1,
+            "title": "10.4 Imagery Retrieval",
+            "page": 261
+        },
+        {
+            "depth": 1,
+            "title": "10.5 Video Retrieval",
+            "page": 264
+        },
+        {
+            "depth": 1,
+            "title": "10.6 Summary",
+            "page": 270
+        },
+        {
+            "depth": 0,
+            "title": "11 Information System Evaluation",
+            "page": 272
+        },
+        {
+            "depth": 1,
+            "title": "11.1 Introduction to Information System Evaluation",
+            "page": 272
+        },
+        {
+            "depth": 1,
+            "title": "11.2 Measures Used in System Evaluations",
+            "page": 275
+        },
+        {
+            "depth": 1,
+            "title": "11.3 Measurement Example-TREC-Results",
+            "page": 282
+        },
+        {
+            "depth": 1,
+            "title": "11.4 Summary",
+            "page": 293
+        },
+        {
+            "depth": 0,
+            "title": "REFERENCES",
+            "page": 296
+        },
+        {
+            "depth": 0,
+            "title": "Subject Index",
+            "page": 328
+        },
+        {
+            "depth": 1,
+            "title": "A",
+            "page": 328
+        },
+        {
+            "depth": 1,
+            "title": "B",
+            "page": 328
+        },
+        {
+            "depth": 1,
+            "title": "C",
+            "page": 328
+        },
+        {
+            "depth": 1,
+            "title": "D",
+            "page": 329
+        },
+        {
+            "depth": 1,
+            "title": "E",
+            "page": 329
+        },
+        {
+            "depth": 1,
+            "title": "F",
+            "page": 329
+        },
+        {
+            "depth": 1,
+            "title": "G",
+            "page": 329
+        },
+        {
+            "depth": 1,
+            "title": "H",
+            "page": 329
+        },
+        {
+            "depth": 1,
+            "title": "I",
+            "page": 330
+        },
+        {
+            "depth": 1,
+            "title": "J",
+            "page": 330
+        },
+        {
+            "depth": 1,
+            "title": "K",
+            "page": 330
+        },
+        {
+            "depth": 1,
+            "title": "L",
+            "page": 330
+        },
+        {
+            "depth": 1,
+            "title": "M",
+            "page": 331
+        },
+        {
+            "depth": 1,
+            "title": "N",
+            "page": 331
+        },
+        {
+            "depth": 1,
+            "title": "O",
+            "page": 331
+        },
+        {
+            "depth": 1,
+            "title": "P",
+            "page": 331
+        },
+        {
+            "depth": 1,
+            "title": "Q",
+            "page": 331
+        },
+        {
+            "depth": 1,
+            "title": "R",
+            "page": 331
+        },
+        {
+            "depth": 1,
+            "title": "S",
+            "page": 332
+        },
+        {
+            "depth": 1,
+            "title": "T",
+            "page": 332
+        },
+        {
+            "depth": 1,
+            "title": "U",
+            "page": 333
+        },
+        {
+            "depth": 1,
+            "title": "V",
+            "page": 333
+        },
+        {
+            "depth": 1,
+            "title": "W",
+            "page": 333
+        },
+        {
+            "depth": 1,
+            "title": "Y",
+            "page": 333
+        },
+        {
+            "depth": 1,
+            "title": "Z",
+            "page": 333
+        }
+    ],
+    "Introduction to GLM.pdf": [],
+    "Mining the Web Discovering knowledge from hypertext data.pdf": [
+        {
+            "depth": 0,
+            "title": "Preface",
+            "page": 2
+        },
+        {
+            "depth": 0,
+            "title": "Introduction",
+            "page": 12
+        },
+        {
+            "depth": 1,
+            "title": "Crawling and indexing",
+            "page": 16
+        },
+        {
+            "depth": 1,
+            "title": "Topic directories",
+            "page": 17
+        },
+        {
+            "depth": 1,
+            "title": "Clustering and classification",
+            "page": 18
+        },
+        {
+            "depth": 1,
+            "title": "Hyperlink analysis",
+            "page": 19
+        },
+        {
+            "depth": 1,
+            "title": "Resource discovery and vertical portals",
+            "page": 20
+        },
+        {
+            "depth": 1,
+            "title": "Structured vs. unstructured data mining",
+            "page": 21
+        },
+        {
+            "depth": 1,
+            "title": "Bibliographic notes",
+            "page": 22
+        },
+        {
+            "depth": 0,
+            "title": "I Infrastructure",
+            "page": 23
+        },
+        {
+            "depth": 1,
+            "title": "Crawling the Web",
+            "page": 24
+        },
+        {
+            "depth": 2,
+            "title": "HTML and HTTP basics",
+            "page": 24
+        },
+        {
+            "depth": 2,
+            "title": "Crawling basics",
+            "page": 26
+        },
+        {
+            "depth": 2,
+            "title": "Engineering large-scale crawlers",
+            "page": 27
+        },
+        {
+            "depth": 3,
+            "title": "DNS caching, prefetching and resolution",
+            "page": 28
+        },
+        {
+            "depth": 3,
+            "title": "Multiple concurrent fetches",
+            "page": 29
+        },
+        {
+            "depth": 3,
+            "title": "Link extraction and normalization",
+            "page": 31
+        },
+        {
+            "depth": 3,
+            "title": "Robot exclusion",
+            "page": 32
+        },
+        {
+            "depth": 3,
+            "title": "Eliminating already-visited URLs",
+            "page": 32
+        },
+        {
+            "depth": 3,
+            "title": "Spider traps",
+            "page": 33
+        },
+        {
+            "depth": 3,
+            "title": "Avoiding repeated expansion of links on duplicate pages",
+            "page": 34
+        },
+        {
+            "depth": 3,
+            "title": "Load monitor and manager",
+            "page": 35
+        },
+        {
+            "depth": 3,
+            "title": "Per-server work queues",
+            "page": 35
+        },
+        {
+            "depth": 3,
+            "title": "Text repository",
+            "page": 36
+        },
+        {
+            "depth": 3,
+            "title": "Refreshing crawled pages",
+            "page": 38
+        },
+        {
+            "depth": 2,
+            "title": "Putting together a crawler",
+            "page": 39
+        },
+        {
+            "depth": 3,
+            "title": "Design of the core components",
+            "page": 40
+        },
+        {
+            "depth": 3,
+            "title": "Case study: Using w3c-libwww",
+            "page": 43
+        },
+        {
+            "depth": 2,
+            "title": "Bibliographic notes",
+            "page": 44
+        },
+        {
+            "depth": 1,
+            "title": "Web search",
+            "page": 46
+        },
+        {
+            "depth": 2,
+            "title": "Boolean queries and the inverted index",
+            "page": 46
+        },
+        {
+            "depth": 3,
+            "title": "Stopwords and stemming",
+            "page": 48
+        },
+        {
+            "depth": 3,
+            "title": "Batch indexing and updates  ",
+            "page": 50
+        },
+        {
+            "depth": 3,
+            "title": "Index compression techniques  ",
+            "page": 51
+        },
+        {
+            "depth": 2,
+            "title": "Relevance ranking  ",
+            "page": 53
+        },
+        {
+            "depth": 3,
+            "title": "Recall and precision  ",
+            "page": 53
+        },
+        {
+            "depth": 3,
+            "title": "The vector space model",
+            "page": 55
+        },
+        {
+            "depth": 3,
+            "title": "Relevance feedback and Roccio's method",
+            "page": 56
+        },
+        {
+            "depth": 3,
+            "title": "Probabilistic relevance feedback models",
+            "page": 57
+        },
+        {
+            "depth": 3,
+            "title": "Advanced issues  ",
+            "page": 60
+        },
+        {
+            "depth": 2,
+            "title": "Similarity search",
+            "page": 65
+        },
+        {
+            "depth": 3,
+            "title": "Handling ``find similar'' queries",
+            "page": 65
+        },
+        {
+            "depth": 3,
+            "title": "Eliminating near-duplicates via shingling",
+            "page": 68
+        },
+        {
+            "depth": 3,
+            "title": "Detecting locally similar subgraphs of the Web ",
+            "page": 69
+        },
+        {
+            "depth": 2,
+            "title": "Bibliographic notes  ",
+            "page": 71
+        },
+        {
+            "depth": 0,
+            "title": "II Learning",
+            "page": 74
+        },
+        {
+            "depth": 1,
+            "title": "Similarity and clustering",
+            "page": 75
+        },
+        {
+            "depth": 2,
+            "title": "Formulations and approaches ",
+            "page": 77
+        },
+        {
+            "depth": 3,
+            "title": "Partitioning approaches",
+            "page": 77
+        },
+        {
+            "depth": 3,
+            "title": "Geometric embedding approaches",
+            "page": 78
+        },
+        {
+            "depth": 3,
+            "title": "Generative models and probabilistic approaches",
+            "page": 79
+        },
+        {
+            "depth": 2,
+            "title": "Bottom-up and top-down partitioning paradigms",
+            "page": 79
+        },
+        {
+            "depth": 3,
+            "title": "Agglomerative clustering",
+            "page": 79
+        },
+        {
+            "depth": 3,
+            "title": "The k-means algorithm",
+            "page": 82
+        },
+        {
+            "depth": 2,
+            "title": "Clustering and visualization via embeddings",
+            "page": 84
+        },
+        {
+            "depth": 3,
+            "title": "Self-organizing maps (SOM)",
+            "page": 84
+        },
+        {
+            "depth": 3,
+            "title": "Multidimensional scaling (MDS) and FastMap",
+            "page": 85
+        },
+        {
+            "depth": 3,
+            "title": "Projections and subspaces",
+            "page": 88
+        },
+        {
+            "depth": 3,
+            "title": "Latent semantic indexing (LSI)",
+            "page": 89
+        },
+        {
+            "depth": 2,
+            "title": "Probabilistic approaches to clustering",
+            "page": 92
+        },
+        {
+            "depth": 3,
+            "title": "Generative distributions for documents",
+            "page": 93
+        },
+        {
+            "depth": 3,
+            "title": "Mixture models and Expectation Maximization (EM)",
+            "page": 95
+        },
+        {
+            "depth": 3,
+            "title": "Multiple cause mixture model (MCMM)",
+            "page": 98
+        },
+        {
+            "depth": 3,
+            "title": "Aspect models and probabilistic LSI",
+            "page": 99
+        },
+        {
+            "depth": 3,
+            "title": "Model and feature selection",
+            "page": 102
+        },
+        {
+            "depth": 2,
+            "title": "Collaborative filtering",
+            "page": 104
+        },
+        {
+            "depth": 3,
+            "title": "Probabilistic models",
+            "page": 104
+        },
+        {
+            "depth": 3,
+            "title": "Combining content-based and collaborative features",
+            "page": 105
+        },
+        {
+            "depth": 2,
+            "title": "Bibliographic notes",
+            "page": 109
+        },
+        {
+            "depth": 1,
+            "title": "Supervised learning for text",
+            "page": 112
+        },
+        {
+            "depth": 2,
+            "title": "The supervised learning scenario",
+            "page": 113
+        },
+        {
+            "depth": 2,
+            "title": "Overview of classification strategies",
+            "page": 115
+        },
+        {
+            "depth": 2,
+            "title": "Evaluating text classifiers",
+            "page": 116
+        },
+        {
+            "depth": 3,
+            "title": "Benchmarks",
+            "page": 116
+        },
+        {
+            "depth": 3,
+            "title": "Measures of accuracy",
+            "page": 117
+        },
+        {
+            "depth": 2,
+            "title": "Nearest neighbor learners",
+            "page": 119
+        },
+        {
+            "depth": 3,
+            "title": "Pros and cons",
+            "page": 120
+        },
+        {
+            "depth": 3,
+            "title": "Is TFIDF appropriate?",
+            "page": 121
+        },
+        {
+            "depth": 2,
+            "title": "Feature selection ",
+            "page": 121
+        },
+        {
+            "depth": 3,
+            "title": "Greedy inclusion algorithms",
+            "page": 123
+        },
+        {
+            "depth": 3,
+            "title": "Truncation algorithms",
+            "page": 129
+        },
+        {
+            "depth": 3,
+            "title": "Comparison and discussion",
+            "page": 129
+        },
+        {
+            "depth": 2,
+            "title": "Bayesian learners",
+            "page": 131
+        },
+        {
+            "depth": 3,
+            "title": "Naive-Bayes learners",
+            "page": 132
+        },
+        {
+            "depth": 3,
+            "title": "Small-degree Bayesian networks",
+            "page": 136
+        },
+        {
+            "depth": 2,
+            "title": "Exploiting hierarchy among topics ",
+            "page": 138
+        },
+        {
+            "depth": 3,
+            "title": "Feature selection ",
+            "page": 138
+        },
+        {
+            "depth": 3,
+            "title": "Enhanced parameter estimation",
+            "page": 138
+        },
+        {
+            "depth": 3,
+            "title": "Training and search strategies",
+            "page": 140
+        },
+        {
+            "depth": 2,
+            "title": "Maximum entropy learners",
+            "page": 142
+        },
+        {
+            "depth": 2,
+            "title": "Discriminative classification",
+            "page": 144
+        },
+        {
+            "depth": 3,
+            "title": "Linear least-square regression",
+            "page": 145
+        },
+        {
+            "depth": 3,
+            "title": "Support vector machines  ",
+            "page": 146
+        },
+        {
+            "depth": 2,
+            "title": "Hypertext classification",
+            "page": 149
+        },
+        {
+            "depth": 3,
+            "title": "Representing hypertext for supervised learning",
+            "page": 149
+        },
+        {
+            "depth": 3,
+            "title": "Rule induction",
+            "page": 151
+        },
+        {
+            "depth": 2,
+            "title": "Bibliographic notes",
+            "page": 152
+        },
+        {
+            "depth": 1,
+            "title": "Semi-supervised learning ",
+            "page": 155
+        },
+        {
+            "depth": 2,
+            "title": "Expectation maximization",
+            "page": 156
+        },
+        {
+            "depth": 3,
+            "title": "Experimental results",
+            "page": 157
+        },
+        {
+            "depth": 3,
+            "title": "Reducing the belief in unlabeled documents",
+            "page": 159
+        },
+        {
+            "depth": 3,
+            "title": "Modeling labels using many mixture components",
+            "page": 160
+        },
+        {
+            "depth": 2,
+            "title": "Labeling hypertext graphs",
+            "page": 160
+        },
+        {
+            "depth": 3,
+            "title": "Absorbing features from neighboring pages",
+            "page": 161
+        },
+        {
+            "depth": 3,
+            "title": "A relaxation labeling algorithm",
+            "page": 164
+        },
+        {
+            "depth": 3,
+            "title": "A metric graph-labeling problem",
+            "page": 168
+        },
+        {
+            "depth": 2,
+            "title": "Co-training",
+            "page": 169
+        },
+        {
+            "depth": 2,
+            "title": "Bibliographic notes",
+            "page": 171
+        },
+        {
+            "depth": 0,
+            "title": "III Applications",
+            "page": 173
+        },
+        {
+            "depth": 1,
+            "title": "Social network analysis",
+            "page": 174
+        },
+        {
+            "depth": 2,
+            "title": "Social sciences and bibliometry",
+            "page": 175
+        },
+        {
+            "depth": 3,
+            "title": "Prestige",
+            "page": 176
+        },
+        {
+            "depth": 3,
+            "title": "Centrality",
+            "page": 177
+        },
+        {
+            "depth": 3,
+            "title": "Co-citation",
+            "page": 177
+        },
+        {
+            "depth": 2,
+            "title": "PageRank and HITS",
+            "page": 178
+        },
+        {
+            "depth": 3,
+            "title": "PageRank ",
+            "page": 179
+        },
+        {
+            "depth": 3,
+            "title": "HITS",
+            "page": 182
+        },
+        {
+            "depth": 3,
+            "title": "Stochastic HITS and other variants",
+            "page": 185
+        },
+        {
+            "depth": 2,
+            "title": "Shortcomings of the coarse-grained graph model",
+            "page": 187
+        },
+        {
+            "depth": 3,
+            "title": "Artifacts of Web authorship",
+            "page": 188
+        },
+        {
+            "depth": 3,
+            "title": "Topic contamination and drift",
+            "page": 191
+        },
+        {
+            "depth": 2,
+            "title": "Enhanced models and techniques",
+            "page": 193
+        },
+        {
+            "depth": 3,
+            "title": "Avoiding two-party nepotism  ",
+            "page": 193
+        },
+        {
+            "depth": 3,
+            "title": "Outlier elimination  ",
+            "page": 194
+        },
+        {
+            "depth": 3,
+            "title": "Exploiting anchor text",
+            "page": 194
+        },
+        {
+            "depth": 3,
+            "title": "Exploiting document markup structure",
+            "page": 196
+        },
+        {
+            "depth": 2,
+            "title": "Evaluation of topic distillation",
+            "page": 200
+        },
+        {
+            "depth": 3,
+            "title": "HITS and related algorithms",
+            "page": 201
+        },
+        {
+            "depth": 3,
+            "title": "Effect of exploiting other hypertext features",
+            "page": 203
+        },
+        {
+            "depth": 2,
+            "title": "Measuring and modeling the Web",
+            "page": 207
+        },
+        {
+            "depth": 3,
+            "title": "Power-law degree distributions",
+            "page": 207
+        },
+        {
+            "depth": 3,
+            "title": "The ``bow-tie'' structure and bipartite cores",
+            "page": 209
+        },
+        {
+            "depth": 3,
+            "title": "Sampling Web pages at random",
+            "page": 209
+        },
+        {
+            "depth": 2,
+            "title": "Bibliographic notes",
+            "page": 214
+        },
+        {
+            "depth": 1,
+            "title": "Resource discovery",
+            "page": 216
+        },
+        {
+            "depth": 2,
+            "title": "Collecting important pages preferentially",
+            "page": 217
+        },
+        {
+            "depth": 3,
+            "title": "Crawling as guided search in a graph",
+            "page": 218
+        },
+        {
+            "depth": 3,
+            "title": "Keyword-based graph search",
+            "page": 219
+        },
+        {
+            "depth": 2,
+            "title": "Similarity search using link topology",
+            "page": 222
+        },
+        {
+            "depth": 2,
+            "title": "Topical locality and focused crawling",
+            "page": 225
+        },
+        {
+            "depth": 3,
+            "title": "Focused crawling",
+            "page": 227
+        },
+        {
+            "depth": 3,
+            "title": "Identifying and exploiting hubs",
+            "page": 232
+        },
+        {
+            "depth": 3,
+            "title": "Learning context graphs",
+            "page": 234
+        },
+        {
+            "depth": 3,
+            "title": "Reinforcement learning",
+            "page": 236
+        },
+        {
+            "depth": 2,
+            "title": "Discovering communities",
+            "page": 238
+        },
+        {
+            "depth": 3,
+            "title": "Bipartite cores as communities",
+            "page": 238
+        },
+        {
+            "depth": 3,
+            "title": "Network flow/cut-based notions of communities",
+            "page": 239
+        },
+        {
+            "depth": 2,
+            "title": "Bibliographic notes",
+            "page": 241
+        },
+        {
+            "depth": 1,
+            "title": "The future of Web mining",
+            "page": 243
+        },
+        {
+            "depth": 2,
+            "title": "Information extraction",
+            "page": 244
+        },
+        {
+            "depth": 2,
+            "title": "Natural language processing",
+            "page": 248
+        },
+        {
+            "depth": 3,
+            "title": "Lexical networks and ontologies",
+            "page": 248
+        },
+        {
+            "depth": 3,
+            "title": "Part-of-speech and sense tagging",
+            "page": 249
+        },
+        {
+            "depth": 3,
+            "title": "Parsing and knowledge representation",
+            "page": 251
+        },
+        {
+            "depth": 2,
+            "title": "Question answering",
+            "page": 253
+        },
+        {
+            "depth": 2,
+            "title": "Profiles, personalization, and collaboration",
+            "page": 256
+        }
+    ],
+    "Information Retrieval Architecture and Algorithms.pdf": [
+        {
+            "depth": 0,
+            "title": "Preface",
+            "page": 6
+        },
+        {
+            "depth": 0,
+            "title": "Contents",
+            "page": 8
+        },
+        {
+            "depth": 0,
+            "title": "1",
+            "page": 12
+        },
+        {
+            "depth": 1,
+            "title": "Information Retrieval System Functions",
+            "page": 12
+        },
+        {
+            "depth": 2,
+            "title": "1.1 Introduction",
+            "page": 12
+        },
+        {
+            "depth": 3,
+            "title": "1.1.1 Primary Information Retrieval Problems",
+            "page": 14
+        },
+        {
+            "depth": 3,
+            "title": "1.1.2 Objectives of Information Retrieval System",
+            "page": 17
+        },
+        {
+            "depth": 2,
+            "title": "1.2 Functional Overview of Information Retrieval Systems",
+            "page": 21
+        },
+        {
+            "depth": 3,
+            "title": "1.2.1 Selective Dissemination of Information",
+            "page": 22
+        },
+        {
+            "depth": 3,
+            "title": "1.2.2 Alerts",
+            "page": 23
+        },
+        {
+            "depth": 3,
+            "title": "1.2.3 Items and Item Index",
+            "page": 24
+        },
+        {
+            "depth": 3,
+            "title": "1.2.4 Indexing and Mapping to a Taxonomy",
+            "page": 24
+        },
+        {
+            "depth": 2,
+            "title": "1.3 Understanding Search Functions",
+            "page": 25
+        },
+        {
+            "depth": 3,
+            "title": "1.3.1 Boolean Logic",
+            "page": 26
+        },
+        {
+            "depth": 3,
+            "title": "1.3.2 Proximity",
+            "page": 27
+        },
+        {
+            "depth": 3,
+            "title": "1.3.3 Contiguous Word Phrases",
+            "page": 28
+        },
+        {
+            "depth": 3,
+            "title": "1.3.4 Fuzzy Searches",
+            "page": 29
+        },
+        {
+            "depth": 3,
+            "title": "1.3.5 Term Masking",
+            "page": 29
+        },
+        {
+            "depth": 3,
+            "title": "1.3.6 Numeric and Date Ranges",
+            "page": 30
+        },
+        {
+            "depth": 3,
+            "title": "1.3.7 Vocabulary Browse",
+            "page": 31
+        },
+        {
+            "depth": 3,
+            "title": "1.3.8 Multimedia Search",
+            "page": 31
+        },
+        {
+            "depth": 2,
+            "title": "1.4 Relationship to Database Management Systems",
+            "page": 31
+        },
+        {
+            "depth": 2,
+            "title": "1.5 Digital Libraries and Data Warehouses",
+            "page": 33
+        },
+        {
+            "depth": 2,
+            "title": "1.6 Processing Subsystem Overview",
+            "page": 35
+        },
+        {
+            "depth": 2,
+            "title": "1.7 Summary",
+            "page": 36
+        },
+        {
+            "depth": 2,
+            "title": "1.8 Exercises",
+            "page": 37
+        },
+        {
+            "depth": 0,
+            "title": "2",
+            "page": 38
+        },
+        {
+            "depth": 1,
+            "title": "Data Structures and Mathematical Algorithms",
+            "page": 38
+        },
+        {
+            "depth": 2,
+            "title": "2.1 Data Structures",
+            "page": 38
+        },
+        {
+            "depth": 3,
+            "title": "2.1.1 Introduction to Data Structures",
+            "page": 38
+        },
+        {
+            "depth": 3,
+            "title": "2.1.2 Inverted File Structure",
+            "page": 40
+        },
+        {
+            "depth": 3,
+            "title": "2.1.3 N-Gram Data Structures",
+            "page": 42
+        },
+        {
+            "depth": 4,
+            "title": "2.1.3.1 History",
+            "page": 43
+        },
+        {
+            "depth": 4,
+            "title": "2.1.3.2 N-Gram Data Structure",
+            "page": 44
+        },
+        {
+            "depth": 3,
+            "title": "2.1.4 PAT Data Structure",
+            "page": 45
+        },
+        {
+            "depth": 3,
+            "title": "2.1.5 Signature File Structure",
+            "page": 49
+        },
+        {
+            "depth": 3,
+            "title": "2.1.6 Hypertext and XML Data Structures",
+            "page": 51
+        },
+        {
+            "depth": 4,
+            "title": "2.1.6.1 Definition of Hypertext Structure",
+            "page": 51
+        },
+        {
+            "depth": 4,
+            "title": "2.1.6.2 Hypertext History",
+            "page": 54
+        },
+        {
+            "depth": 3,
+            "title": "2.1.7 XML",
+            "page": 54
+        },
+        {
+            "depth": 2,
+            "title": "2.2 Mathematical Algorithms",
+            "page": 55
+        },
+        {
+            "depth": 3,
+            "title": "2.2.1 Introduction",
+            "page": 55
+        },
+        {
+            "depth": 3,
+            "title": "2.2.2 Bayesian Mathematics",
+            "page": 56
+        },
+        {
+            "depth": 3,
+            "title": "2.2.3 Shannon’s Theory of Information",
+            "page": 58
+        },
+        {
+            "depth": 3,
+            "title": "2.2.4 Latent Semantic Indexing",
+            "page": 59
+        },
+        {
+            "depth": 3,
+            "title": "2.2.5 Hidden Markov Models",
+            "page": 64
+        },
+        {
+            "depth": 3,
+            "title": "2.2.6 Neural Networks",
+            "page": 67
+        },
+        {
+            "depth": 3,
+            "title": "2.2.7 Support Vector Machines",
+            "page": 69
+        },
+        {
+            "depth": 2,
+            "title": "2.3 Summary",
+            "page": 70
+        },
+        {
+            "depth": 2,
+            "title": "2.4 Exercises",
+            "page": 71
+        },
+        {
+            "depth": 0,
+            "title": "3",
+            "page": 73
+        },
+        {
+            "depth": 1,
+            "title": "Ingest",
+            "page": 73
+        },
+        {
+            "depth": 2,
+            "title": "3.1 Introduction to Ingest",
+            "page": 73
+        },
+        {
+            "depth": 2,
+            "title": "3.2 Item Receipt",
+            "page": 74
+        },
+        {
+            "depth": 2,
+            "title": "3.3 Duplicate Detection",
+            "page": 77
+        },
+        {
+            "depth": 2,
+            "title": "3.4 Item Normalization",
+            "page": 81
+        },
+        {
+            "depth": 2,
+            "title": "3.5 Zoning and Creation of Processing Tokens",
+            "page": 82
+        },
+        {
+            "depth": 2,
+            "title": "3.6 Stemming",
+            "page": 86
+        },
+        {
+            "depth": 3,
+            "title": "3.6.1 Introduction to the Stemming Process",
+            "page": 87
+        },
+        {
+            "depth": 3,
+            "title": "3.6.2 Porter Stemming Algorithm",
+            "page": 89
+        },
+        {
+            "depth": 3,
+            "title": "3.6.3 Dictionary Look-Up Stemmers",
+            "page": 90
+        },
+        {
+            "depth": 3,
+            "title": "3.6.4 Successor Stemmers",
+            "page": 91
+        },
+        {
+            "depth": 3,
+            "title": "3.6.5 Conclusions on Stemming",
+            "page": 93
+        },
+        {
+            "depth": 2,
+            "title": "3.7 Entity Processing",
+            "page": 94
+        },
+        {
+            "depth": 3,
+            "title": "3.7.1 Entity Identification",
+            "page": 95
+        },
+        {
+            "depth": 3,
+            "title": "3.7.2 Entity Normalization",
+            "page": 96
+        },
+        {
+            "depth": 3,
+            "title": "3.7.3 Entity Resolution",
+            "page": 96
+        },
+        {
+            "depth": 3,
+            "title": "3.7.4 Information Extraction",
+            "page": 97
+        },
+        {
+            "depth": 2,
+            "title": "3.8 Categorization",
+            "page": 98
+        },
+        {
+            "depth": 2,
+            "title": "3.9 Citational Metadata",
+            "page": 102
+        },
+        {
+            "depth": 2,
+            "title": "3.10 Summary",
+            "page": 102
+        },
+        {
+            "depth": 2,
+            "title": "3.11 Exercises",
+            "page": 103
+        },
+        {
+            "depth": 0,
+            "title": "4",
+            "page": 104
+        },
+        {
+            "depth": 1,
+            "title": "Indexing",
+            "page": 104
+        },
+        {
+            "depth": 2,
+            "title": "4.1 What is Indexing",
+            "page": 104
+        },
+        {
+            "depth": 3,
+            "title": "4.1.1 History",
+            "page": 105
+        },
+        {
+            "depth": 3,
+            "title": "4.1.2 Objectives",
+            "page": 106
+        },
+        {
+            "depth": 2,
+            "title": "4.2 Manual Indexing Process",
+            "page": 108
+        },
+        {
+            "depth": 3,
+            "title": "4.2.1 Scope of Indexing",
+            "page": 108
+        },
+        {
+            "depth": 3,
+            "title": "4.2.2 Precoordination and Linkages",
+            "page": 109
+        },
+        {
+            "depth": 2,
+            "title": "4.3 Automatic Indexing of Text",
+            "page": 111
+        },
+        {
+            "depth": 3,
+            "title": "4.3.1 Statistical Indexing",
+            "page": 114
+        },
+        {
+            "depth": 4,
+            "title": "4.3.1.1 Probabilistic Weighting",
+            "page": 115
+        },
+        {
+            "depth": 4,
+            "title": "4.3.1.2 Baysean Indexing",
+            "page": 117
+        },
+        {
+            "depth": 4,
+            "title": "4.3.1.3 Vector Weighting",
+            "page": 119
+        },
+        {
+            "depth": 3,
+            "title": "4.3.2 Natural Language",
+            "page": 129
+        },
+        {
+            "depth": 4,
+            "title": "4.3.2.1 Index Phrase Generation",
+            "page": 129
+        },
+        {
+            "depth": 4,
+            "title": "4.3.2.2 Natural Language Processing",
+            "page": 133
+        },
+        {
+            "depth": 3,
+            "title": "4.3.3 Concept Indexing",
+            "page": 134
+        },
+        {
+            "depth": 2,
+            "title": "4.4 Automatic Indexing of Multimedia",
+            "page": 138
+        },
+        {
+            "depth": 3,
+            "title": "4.4.1 Introduction to Mutlimedia Indexing",
+            "page": 139
+        },
+        {
+            "depth": 3,
+            "title": "4.4.2 Audio Indexing",
+            "page": 140
+        },
+        {
+            "depth": 3,
+            "title": "4.4.3 Image Indexing",
+            "page": 143
+        },
+        {
+            "depth": 3,
+            "title": "4.4.4 Video Indexing",
+            "page": 145
+        },
+        {
+            "depth": 2,
+            "title": "4.5 Summary",
+            "page": 146
+        },
+        {
+            "depth": 2,
+            "title": "4.6 Exercises",
+            "page": 148
+        },
+        {
+            "depth": 0,
+            "title": "5",
+            "page": 149
+        },
+        {
+            "depth": 1,
+            "title": "Search",
+            "page": 149
+        },
+        {
+            "depth": 2,
+            "title": "5.1 Introduction",
+            "page": 149
+        },
+        {
+            "depth": 2,
+            "title": "5.2 Similarity Measures and Ranking",
+            "page": 150
+        },
+        {
+            "depth": 3,
+            "title": "5.2.1 Similarity Measures",
+            "page": 152
+        },
+        {
+            "depth": 4,
+            "title": "5.2.1.1 Weighted Vector Similarity Measures",
+            "page": 153
+        },
+        {
+            "depth": 2,
+            "title": "5.3 Hidden Markov Models Techniques",
+            "page": 160
+        },
+        {
+            "depth": 2,
+            "title": "5.4 Ranking Algorithms",
+            "page": 161
+        },
+        {
+            "depth": 2,
+            "title": "5.5 Relevance Feedback",
+            "page": 162
+        },
+        {
+            "depth": 2,
+            "title": "5.6 Selective Dissemination of Information Search",
+            "page": 165
+        },
+        {
+            "depth": 2,
+            "title": "5.7 Weighted Searches of Boolean Systems",
+            "page": 171
+        },
+        {
+            "depth": 2,
+            "title": "5.8 Multimedia Searching",
+            "page": 175
+        },
+        {
+            "depth": 2,
+            "title": "5.9 Summary",
+            "page": 176
+        },
+        {
+            "depth": 2,
+            "title": "5.10 Exercises",
+            "page": 178
+        },
+        {
+            "depth": 0,
+            "title": "6",
+            "page": 179
+        },
+        {
+            "depth": 1,
+            "title": "Document and Term Clustering",
+            "page": 179
+        },
+        {
+            "depth": 2,
+            "title": "6.1 Introduction to Clustering",
+            "page": 179
+        },
+        {
+            "depth": 2,
+            "title": "6.2 Thesaurus Generation",
+            "page": 182
+        },
+        {
+            "depth": 3,
+            "title": "6.2.1 Manual Clustering",
+            "page": 183
+        },
+        {
+            "depth": 3,
+            "title": "6.2.2 Automatic Term Clustering",
+            "page": 184
+        },
+        {
+            "depth": 4,
+            "title": "6.2.2.1 Complete Term Relation Method",
+            "page": 184
+        },
+        {
+            "depth": 4,
+            "title": "6.2.2.2 Clustering Using Existing Clusters",
+            "page": 189
+        },
+        {
+            "depth": 4,
+            "title": "6.2.2.3 One Pass Assignments",
+            "page": 192
+        },
+        {
+            "depth": 2,
+            "title": "6.3 Item Clustering",
+            "page": 192
+        },
+        {
+            "depth": 2,
+            "title": "6.4 Hierarchy of Clusters",
+            "page": 194
+        },
+        {
+            "depth": 3,
+            "title": "6.4.1 Automatic Hierarchical Cluster Algorithms",
+            "page": 197
+        },
+        {
+            "depth": 2,
+            "title": "6.5 Measure of Tightness for Cluster",
+            "page": 201
+        },
+        {
+            "depth": 2,
+            "title": "6.6 Issues with Use of Hierarchical Clusters for Search",
+            "page": 202
+        },
+        {
+            "depth": 2,
+            "title": "6.7 Summary",
+            "page": 203
+        },
+        {
+            "depth": 2,
+            "title": "6.8 Exercises",
+            "page": 205
+        },
+        {
+            "depth": 0,
+            "title": "7",
+            "page": 207
+        },
+        {
+            "depth": 1,
+            "title": "Information Presentation",
+            "page": 207
+        },
+        {
+            "depth": 2,
+            "title": "7.1 Information Presentation Introduction",
+            "page": 207
+        },
+        {
+            "depth": 2,
+            "title": "7.2 Presentation of the Hits",
+            "page": 207
+        },
+        {
+            "depth": 3,
+            "title": "7.2.1 Sequential Listing of Hits",
+            "page": 208
+        },
+        {
+            "depth": 3,
+            "title": "7.2.2 Cluster View",
+            "page": 209
+        },
+        {
+            "depth": 3,
+            "title": "7.2.3 Network View",
+            "page": 213
+        },
+        {
+            "depth": 3,
+            "title": "7.2.4 Timeline Presentation",
+            "page": 216
+        },
+        {
+            "depth": 2,
+            "title": "7.3 Display of the Item",
+            "page": 218
+        },
+        {
+            "depth": 3,
+            "title": "7.3.1 Indicating Search Terms in Display",
+            "page": 218
+        },
+        {
+            "depth": 3,
+            "title": "7.3.2 Text Summarization",
+            "page": 219
+        },
+        {
+            "depth": 2,
+            "title": "7.4 Collaborative Filtering",
+            "page": 221
+        },
+        {
+            "depth": 3,
+            "title": "7.4.1 Page Ranking as Collaborative Filtering",
+            "page": 223
+        },
+        {
+            "depth": 2,
+            "title": "7.5 Multimedia Presentation",
+            "page": 224
+        },
+        {
+            "depth": 3,
+            "title": "7.5.1 Audio Presentation",
+            "page": 224
+        },
+        {
+            "depth": 3,
+            "title": "7.5.2 Image Item Presentation",
+            "page": 227
+        },
+        {
+            "depth": 3,
+            "title": "7.5.3 Video Presentation",
+            "page": 231
+        },
+        {
+            "depth": 2,
+            "title": "7.6 Human Perception and Presentation",
+            "page": 233
+        },
+        {
+            "depth": 3,
+            "title": "7.6.1 Introduction to Information Visualization",
+            "page": 234
+        },
+        {
+            "depth": 3,
+            "title": "7.6.2 Cognition and Perception",
+            "page": 237
+        },
+        {
+            "depth": 4,
+            "title": "7.6.2.1 Background",
+            "page": 237
+        },
+        {
+            "depth": 4,
+            "title": "7.6.2.2 Aspects of the Visualization Process",
+            "page": 238
+        },
+        {
+            "depth": 2,
+            "title": "7.7 Summary",
+            "page": 241
+        },
+        {
+            "depth": 2,
+            "title": "7.8 Exercises",
+            "page": 242
+        },
+        {
+            "depth": 0,
+            "title": "8",
+            "page": 243
+        },
+        {
+            "depth": 1,
+            "title": "Search Architecture",
+            "page": 243
+        },
+        {
+            "depth": 2,
+            "title": "8.1 Index Search Optimization",
+            "page": 243
+        },
+        {
+            "depth": 3,
+            "title": "8.1.1 Pruning the Index",
+            "page": 244
+        },
+        {
+            "depth": 3,
+            "title": "8.1.2 Champion Lists",
+            "page": 244
+        },
+        {
+            "depth": 2,
+            "title": "8.2 Text Search Optimization",
+            "page": 245
+        },
+        {
+            "depth": 3,
+            "title": "8.2.1 Software Text Search Algorithms",
+            "page": 247
+        },
+        {
+            "depth": 3,
+            "title": "8.2.2 Hardware Text Search Systems",
+            "page": 252
+        },
+        {
+            "depth": 4,
+            "title": "8.2.2.1 History",
+            "page": 252
+        },
+        {
+            "depth": 4,
+            "title": "8.2.2.2 Current Systems",
+            "page": 256
+        },
+        {
+            "depth": 4,
+            "title": "Bibliography",
+            "page": 290
+        },
+        {
+            "depth": 2,
+            "title": "8.3 GOOGLE Scalable Multiprocessor Architecture",
+            "page": 257
+        },
+        {
+            "depth": 2,
+            "title": "8.4 Summary",
+            "page": 259
+        },
+        {
+            "depth": 2,
+            "title": "8.5 Exercises",
+            "page": 260
+        },
+        {
+            "depth": 0,
+            "title": "9",
+            "page": 261
+        },
+        {
+            "depth": 1,
+            "title": "Information System Evaluation",
+            "page": 261
+        },
+        {
+            "depth": 2,
+            "title": "9.1 Introduction to Information System Evaluation",
+            "page": 261
+        },
+        {
+            "depth": 2,
+            "title": "9.2 Measures Used in System Evaluations",
+            "page": 267
+        },
+        {
+            "depth": 2,
+            "title": "9.3 Multimedia Information Retrieval Evaluation",
+            "page": 277
+        },
+        {
+            "depth": 2,
+            "title": "9.4 Measurement Example: TREC Evolution",
+            "page": 279
+        },
+        {
+            "depth": 2,
+            "title": "9.5 Summary",
+            "page": 287
+        },
+        {
+            "depth": 2,
+            "title": "9.6 Exercises",
+            "page": 288
+        },
+        {
+            "depth": 0,
+            "title": "Bibliography ",
+            "page": 290
+        },
+        {
+            "depth": 0,
+            "title": "Index",
+            "page": 308
+        }
+    ]
+}

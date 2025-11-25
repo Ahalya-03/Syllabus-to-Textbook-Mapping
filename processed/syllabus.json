@@ -1,0 +1,42 @@
+[
+  {
+    "source": "syllabus",
+    "text": "Tokenization and text normalization"
+  },
+  {
+    "source": "syllabus",
+    "text": "Stemming and lemmatization"
+  },
+  {
+    "source": "syllabus",
+    "text": "Stop word removal"
+  },
+  {
+    "source": "syllabus",
+    "text": "N gram language models"
+  },
+  {
+    "source": "syllabus",
+    "text": "Part of speech tagging"
+  },
+  {
+    "source": "syllabus",
+    "text": "Named entity recognition"
+  },
+  {
+    "source": "syllabus",
+    "text": "Text classification"
+  },
+  {
+    "source": "syllabus",
+    "text": "Similarity measures in IR"
+  },
+  {
+    "source": "syllabus",
+    "text": "Inverted index construction"
+  },
+  {
+    "source": "syllabus",
+    "text": "Index compression techniques"
+  }
+]
